@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yomikoye, Microsoft Azure Certified DCloud DevOps Engineer
+- 👋 Hi, I’m [@yomikoye](https://github.com/yomikoye/), Microsoft Azure Certified DCloud DevOps Engineer
 - 🔭 I’m currently working on Azure, Terraform, Ansible, PowerShell, Python
 - 🌱 I’m currently learning GCP, 
 - 💞️ I’m looking to collaborate on .opensource projects

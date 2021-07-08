@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Azure, Terraform, Ansible, PowerShell, Python
 - 🌱 I’m currently learning GCP, 
 - 💞️ I’m looking to collaborate on .opensource projects
-- 📫 How to reach me: Twitter [https://www.twittwer.com/general_abayomi] 
+- 📫 How to reach me: Twitter (https://www.twittwer.com/general_abayomi)
 
 ...
 

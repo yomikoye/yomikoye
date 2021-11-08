@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Azure, Ansible, Terraform, Kubernetes, PowerShell, Python
 - 🌱 I’m currently learning GCP, Cloud Monitoring, SREs 
 - 💞️ I’m looking to collaborate on OpenSource projects
-- 📫 How to reach me: [Twitter](https://www.twittwer.com/yomikoye)
+- 📫 How to reach me: [Twitter](https://www.twitter.com/yomikoye)
 
 ...
 

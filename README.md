@@ -1,6 +1,5 @@
 - 👋 Hi, I’m [@yomikoye](https://github.com/yomikoye/), a Cloud DevOps Engineer
-- 🔭 I’m currently working on Azure, Ansible, Terraform, Kubernetes, PowerShell, Python
-- 🌱 I’m currently learning GCP, Cloud Monitoring, SREs 
+- 🔭 I’m currently working on Azure, Ansible, CI/CD, Terraform, Kubernetes, PowerShell
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me: [Twitter](https://www.twitter.com/yomikoye)
 

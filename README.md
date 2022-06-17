@@ -1,6 +1,7 @@
 # 💫About Me :
-👋 Hi, I’m @yomikoye, a DevOps Engineer with deep technical experience building and deploying high availability and scalable infrastructure to meet business
-needs in large corporations, as well as SMEs, spread across diverse sectors of the economy. 
+👋 Hi, I’m @yomikoye, a DevOps Engineer 
+🔭 I’m currently working with Azure, GCP, DevOps CI/CD Pipelines, Terraform, Kubernetes, PowerShell
+💞️ I’m looking to collaborate on B2B and OpenSource projects
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yomikoye) 

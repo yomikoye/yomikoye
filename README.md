@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m Abayomi, a DevOps Engineer 
-- 🔭 I’m currently working with Azure, GCP, DevOps CI/CD Pipelines, Terraform, Kubernetes, PowerShell
-- 💞️ I’m looking to collaborate on B2B and OpenSource projects
+- 🔭 I’m currently working with Azure, GCP, DevOps, CI/CD Pipelines, Terraform, Kubernetes, PowerShell
+- 💞️ I’m looking to collaborate on OpenSource projects
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yomikoye) 

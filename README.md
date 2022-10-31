@@ -1,7 +1,10 @@
 # 💫About Me :
-- ✨ Azure Cloud. Google Cloud. DevOps.
-- ✨ Bibliophile. Globetrotter. Polyglot.
-- ✨ Where you are now isn't your final destination, keep moving!
+✨ Azure Cloud. Google Cloud. DevOps.
+<br/>
+✨ Bibliophile. Globetrotter. Polyglot.
+<br/>
+✨ Where you are now isn't your final destination, keep moving!
+<br/>
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yomikoye) 
